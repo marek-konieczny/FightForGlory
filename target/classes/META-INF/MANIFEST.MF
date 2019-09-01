@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Marek Konieczny
+Class-Path: lib/javatuples-1.2.jar lib/log4j-1.2.17.jar lib/log4j-api-
+ 2.7.jar lib/log4j-core-2.7.jar lib/log4j-slf4j-impl-2.7.jar lib/slf4j
+ -api-1.7.21.jar lib/lombok-1.18.8.jar
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Main-Class: com.fight.Main
+
